@@ -1,0 +1,14 @@
+layout_spectrum: 0.2616487
+color:
+  saturation: 0
+  lightness: 0.05555556
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#888077'
+    - '#31302F'
+    - '#B41E39'
+    - '#BCC6D8'
+  rhythmicContrast: 1
+typography_spectrum: 0.3996416
+name: LowKeyCreative
