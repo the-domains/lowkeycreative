@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LowKeyCreative]]></title>
         <description><![CDATA[LowKeyCreative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lowkeycreative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:40:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 19:40:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lowkeycreative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Low Key logo created by Lex Brilliant]]></title>
+            <description><![CDATA[<article><h1>Low Key logo created by Lex Brilliant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c849bc7fddc1f3db428c0ebe67f88687e207535e.png"></article>]]></description>
+            <link>https://thegrid.ai/lowkeycreative/low-key-logo-created-by-lex-brilliant/index.html</link>
+            <guid isPermaLink="false">2959ffd7-c257-4cb4-9acb-1f527dedb8a2</guid>
+            <pubDate>Sat, 05 Mar 2016 19:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6ix]]></title>
             <description><![CDATA[<article><h1>6ix</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1efa76693e301ad2ae80880e29e34ab6455e017.png"></article>]]></description>
-            <link>undefined6ix/index.html</link>
+            <link>https://thegrid.ai/lowkeycreative/6ix/index.html</link>
             <guid isPermaLink="false">cb2431b8-180f-4d94-a806-493cc9d98e98</guid>
             <pubDate>Sat, 05 Mar 2016 19:39:48 GMT</pubDate>
         </item>
