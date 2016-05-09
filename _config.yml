@@ -4,13 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.5752688
 color:
   saturation: 1
   brandStrength: 0
@@ -22,5 +21,6 @@ color:
     - '#B2A491'
     - '#FFFDFB'
   lightness: 0
-layout_spectrum: 1
+typography_spectrum: 0.4086021
+layout_spectrum: 0.4444444
 name: LowKeyCreative
